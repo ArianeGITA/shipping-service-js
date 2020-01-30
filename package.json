@@ -13,8 +13,10 @@
     "testEnvironment": "node"
   },
   "bugs": {
-      "url": "https://github.com/boldor2001/shipping-service/isuues"
-        },
-  "homepage": "https://github.com/bolder2001/shipping-service#readme"
-
+    "url": "https://github.com/boldor2001/shipping-service/isuues"
+  },
+  "homepage": "https://github.com/bolder2001/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^8.1.1"
+  }
 }
